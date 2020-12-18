@@ -1,0 +1,18 @@
+h1{
+
+text-align:center;
+color:rgb(0,0,255);
+border:dotted 1px #CC00AA;
+border-width:6px 10px;
+padding:2px 2px;
+margin:3px 3px;
+
+}
+p{
+
+border:inset 2px #FFFFFF;
+boder-width:4px 6px 5px;
+padding:4px 4px;
+margin:6px 3px;
+display:inline-block;
+}

@@ -1,0 +1,31 @@
+nav{
+	background-color:yellow;
+	font-style:italic;
+	font-family:arial;
+	text-align:center;
+}
+h2{
+	background: yellow;
+	color:white;
+}
+ul{
+	background: yellow;
+	color:red;
+}
+p{
+	color: red;
+}
+progress{
+	color: green;
+}
+h1{
+	background: green;
+	color: red;
+}
+details{
+	font-style: italic;
+	font-variant:small-caps;
+}
+summary{
+	font-style: normal;
+}
